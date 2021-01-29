@@ -33,7 +33,8 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  integration_test:
+  integration_test: ^1.0.0
+  flutter_driver:
     sdk: flutter
   bloc_test: ^7.1.0
   mockito: ^4.0.0
